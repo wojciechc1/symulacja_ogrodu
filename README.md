@@ -1,1 +1,1 @@
-# Prosta Symulacja 
+Simple simulation
